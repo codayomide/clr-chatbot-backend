@@ -4,3 +4,4 @@ google-generativeai==0.7.2
 python-dotenv==1.0.0
 scikit-learn==1.4.0
 numpy==1.26.4
+gunicorn
