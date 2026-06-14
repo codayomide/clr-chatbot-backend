@@ -3,120 +3,181 @@
     "id": "kb001",
     "category": "Library Hours",
     "title": "CLR Operating Hours",
-    "content": "The Covenant University Centre for Learning Resources (CLR) is open Monday to Friday from 8:00 AM to 10:00 PM, and Saturday from 9:00 AM to 6:00 PM. The library is closed on Sundays and public holidays. During examination periods, the library extends its hours to midnight on weekdays. The reading rooms are accessible 24/7 with a valid student ID card."
+    "content": "The Covenant University Centre for Learning Resources (CLR) is open Monday to Friday from 8:00 AM to 8:00 PM, and Saturday from 9:00 AM to 6:00 PM. The library is closed on Sundays and public holidays. During examination periods, the library extends its hours to midnight on weekdays. The reading rooms are accessible 24/7 with a valid student ID card."
   },
   {
     "id": "kb002",
     "category": "Borrowing",
     "title": "Book Borrowing Policy",
-    "content": "Undergraduate students can borrow up to 4 books at a time for a period of 2 weeks. Postgraduate students are entitled to borrow up to 6 books for 3 weeks. Academic staff may borrow up to 10 books for one semester. Books can be renewed online through the CLR portal or in person at the circulation desk. Overdue fines are charged at N50 per day per book."
+    "content": "Undergraduate students can borrow up to 4 books at a time for a period of 2 weeks. Postgraduate students can borrow up to 6 books for 3 weeks. Academic staff may borrow up to 10 books for one semester. Books can be renewed online or at the circulation desk. Overdue fines apply for late returns."
   },
   {
     "id": "kb003",
     "category": "Borrowing",
     "title": "Book Renewal and Returns",
-    "content": "Books can be renewed a maximum of 2 times provided there are no pending reservations on the item. To renew, log in to the CLR online portal at library.covenantuniversity.edu.ng, go to 'My Account', and select 'Renew Items'. You can also call the circulation desk at ext. 3400. Returns must be made to the book drop boxes located at the library entrance or directly to the circulation desk."
+    "content": "Books can be renewed a maximum of 2 times if not reserved by another user. Renewals can be done via the CLR portal under 'My Account'. Returns can be made at book drop boxes or the circulation desk."
   },
   {
     "id": "kb004",
     "category": "E-Resources",
     "title": "Online Databases and E-Journals",
-    "content": "The CLR provides access to several premium online databases including JSTOR, IEEE Xplore, ScienceDirect, Scopus, Web of Science, and EBSCOhost. These resources are accessible on campus directly through the library website. Off-campus access requires VPN credentials available from the ICT Directorate. Students can also access the National Virtual Library of Nigeria (NVLN) through the portal."
+    "content": "The CLR provides access to JSTOR, IEEE Xplore, ScienceDirect, Scopus, Web of Science, EBSCOhost, and other academic databases. On-campus access is direct, while off-campus access requires VPN credentials from the ICT Directorate."
   },
   {
     "id": "kb005",
     "category": "E-Resources",
     "title": "E-Book Collections",
-    "content": "The library holds a collection of over 50,000 e-books accessible through the CLR e-library portal. Platforms include SpringerLink, Wiley Online Library, and the Covenant University Institutional Repository (CUIR). Students and staff can read e-books online or download them for a limited period of 7 days using the OverDrive or Adobe Digital Editions app."
+    "content": "The library provides access to over 50,000 e-books via platforms such as SpringerLink, Wiley Online Library, and the Covenant University Institutional Repository. E-books can be read online or downloaded for limited periods."
   },
   {
     "id": "kb006",
     "category": "Services",
     "title": "Library Membership and Registration",
-    "content": "All registered Covenant University students and staff are automatically enrolled as library members. Students need to visit the CLR with their student ID card for the first-time library orientation and to collect their library card. The library card must be presented at all times within the library premises. Lost cards attract a replacement fee of N500."
+    "content": "All registered students and staff are automatically library members. First-time users must complete orientation and present their student ID card to obtain access. Lost library cards attract replacement fees."
   },
   {
     "id": "kb007",
     "category": "Services",
     "title": "Photocopy and Printing Services",
-    "content": "Photocopying and printing services are available at the CLR Business Centre located on the ground floor. Printing costs N20 per page for black and white and N50 for color printing. Scanning services are available at N10 per page. Students are advised to bring their own USB drives for document submission. The Business Centre operates from 8:00 AM to 8:00 PM on weekdays."
+    "content": "Printing and photocopy services are available at the CLR Business Centre. Costs include N20 per page (black & white), N50 per page (color), and N10 per scanned page. The centre operates on weekdays from 8:00 AM to 8:00 PM."
   },
   {
     "id": "kb008",
     "category": "Facilities",
     "title": "Study Rooms and Spaces",
-    "content": "The CLR has several study areas including individual carrels, group study rooms, and a postgraduate reading room. Group study rooms (capacity: 4-8 persons) can be booked in advance through the CLR portal or at the information desk for sessions of up to 2 hours. The rooms are equipped with whiteboards and power outlets. The postgraduate reading room on the 3rd floor is exclusively for postgraduate students and requires a valid postgraduate ID."
+    "content": "The CLR provides individual carrels, group study rooms, and postgraduate reading rooms. Group rooms accommodate 4–8 people and can be booked for up to 2 hours. Postgraduate reading rooms require valid postgraduate ID."
   },
   {
     "id": "kb009",
     "category": "Facilities",
     "title": "Computer and Internet Access",
-    "content": "The CLR provides over 100 computer workstations with internet access available to all library users. Sessions are limited to 1 hour during busy periods. Students must log in using their university ID and password. The library also offers free Wi-Fi throughout all floors. Laptops can be used in all study areas. Charging stations are available on each floor."
+    "content": "Over 100 computer workstations are available for student use with 1-hour session limits during peak times. Free Wi-Fi is available throughout the library."
   },
   {
     "id": "kb010",
     "category": "Rules",
     "title": "Library Rules and Conduct",
-    "content": "Users are expected to maintain silence in the reading rooms. Mobile phones must be on silent mode. Food and beverages are strictly prohibited in all library areas except the designated relaxation area. Bags must be deposited at the cloakroom before entering. Defacing, mutilating, or stealing library materials is an offense that attracts disciplinary action. Dress code: smart casual — no casual wears like singlets, slippers, or scanty dresses are permitted."
+    "content": "Users must maintain silence in reading areas. Mobile phones must be silent. Food and drinks are not allowed except in designated areas. Bags must be deposited at the cloakroom. Dress code applies within the library."
   },
   {
     "id": "kb011",
     "category": "Research Support",
     "title": "Research and Reference Services",
-    "content": "The CLR offers research assistance through trained reference librarians. Students can request a one-on-one research consultation by booking an appointment at the information desk or via email at refdesk@covenantuniversity.edu.ng. Services include literature search guidance, citation assistance, and help with using databases. Walk-in assistance is available Monday to Friday from 9:00 AM to 4:00 PM."
+    "content": "The CLR provides research assistance including literature searches, citation guidance, and database usage support. Consultations can be booked or accessed via walk-in sessions."
   },
   {
     "id": "kb012",
     "category": "Research Support",
     "title": "Turnitin and Plagiarism Checking",
-    "content": "The CLR offers Turnitin plagiarism checking services for students working on final year projects, theses, and dissertations. Students must submit their document to the library via email or in person at the research desk. Results are typically available within 24 hours. Each student is entitled to 2 free Turnitin checks; additional checks attract a fee of N1,000 each."
+    "content": "Students can submit documents for plagiarism checks using Turnitin. Each student is entitled to two free checks, with additional checks attracting a fee."
   },
   {
     "id": "kb013",
     "category": "Catalogue",
     "title": "Searching the Library Catalogue (OPAC)",
-    "content": "The Online Public Access Catalogue (OPAC) is available at opac.covenantuniversity.edu.ng. Users can search for books by title, author, subject, ISBN, or keyword. The catalogue shows real-time availability status — whether a book is on shelf, checked out, or reserved. Students can place holds on checked-out items through the catalogue. The catalogue also provides the call number needed to locate a physical book on the shelves."
+    "content": "The OPAC system allows users to search for books by title, author, subject, or keyword. It displays availability and call numbers for physical location."
   },
   {
     "id": "kb014",
     "category": "Catalogue",
     "title": "Library Classification System",
-    "content": "The CLR uses the Library of Congress Classification (LCC) system to organize its collections. Books are arranged on shelves by their call numbers. Subject areas include: Q (Science), QA (Mathematics/Computer Science), T (Technology/Engineering), R (Medicine), H (Social Sciences), and P (Language/Literature), among others. The library staff at the information desk can assist students in locating materials using call numbers."
+    "content": "The library uses the Library of Congress Classification system including categories such as Q (Science), T (Technology), H (Social Sciences), and P (Language)."
   },
   {
     "id": "kb015",
     "category": "E-Learning",
-    "title": "Covenant University E-Learning Platform (CU LMS)",
-    "content": "The Covenant University Learning Management System (LMS) is accessible at lms.covenantuniversity.edu.ng. Students can access course materials, lecture notes, assignments, and video lectures uploaded by lecturers. The LMS is available 24/7. Login credentials are the same as the university portal (student ID and password). Students experiencing LMS access issues should contact the ICT Directorate Help Desk at icthelp@covenantuniversity.edu.ng or visit the ICT building."
+    "title": "Covenant University LMS",
+    "content": "The LMS (lms.covenantuniversity.edu.ng) provides access to course materials, assignments, and lecture content. Login uses student credentials."
   },
   {
     "id": "kb016",
     "category": "E-Learning",
     "title": "Digital Learning Resources",
-    "content": "The CLR supports e-learning by providing access to LinkedIn Learning, Coursera for Campus, and Khan Academy resources. These platforms offer thousands of courses in technology, business, arts, and sciences. Access is through the student portal under the 'Digital Learning' section. Students can earn certificates from these platforms, which can be attached to their academic portfolio."
+    "content": "Students have access to LinkedIn Learning, Coursera for Campus, and Khan Academy for additional skill development and certification."
   },
   {
     "id": "kb017",
     "category": "Contact",
     "title": "CLR Contact Information",
-    "content": "Centre for Learning Resources, Covenant University, Ota, Ogun State, Nigeria. Phone: +234 (0) 1-2909999. Email: clr@covenantuniversity.edu.ng. Website: library.covenantuniversity.edu.ng. Social Media: @CULibrary on Twitter and Instagram. For circulation inquiries: circulation@covenantuniversity.edu.ng. For e-resources support: eresources@covenantuniversity.edu.ng."
+    "content": "Centre for Learning Resources, Covenant University, Ota, Ogun State, Nigeria. Email: clr@covenantuniversity.edu.ng. Phone: +234 1-2909999."
   },
   {
     "id": "kb018",
     "category": "Special Collections",
     "title": "Special Collections and Archives",
-    "content": "The CLR houses a Special Collections department that includes rare books, manuscripts, the Covenant University Institutional Repository (CUIR), and the Nigerian Law Collection. Access to special collections requires prior approval from the Head Librarian. Final year project theses and dissertations submitted by graduating students are catalogued and preserved in CUIR. Researchers wishing to access archival materials must complete a Special Access Request Form available at the information desk."
+    "content": "The CLR houses rare books, manuscripts, and institutional repositories. Access requires approval from the Head Librarian."
   },
   {
     "id": "kb019",
     "category": "Borrowing",
     "title": "Inter-Library Loans",
-    "content": "If a required book is not available in the CLR collection, students and staff can request it through the Inter-Library Loan (ILL) service. ILL requests are submitted via a form available at the reference desk or online on the library website. Requests typically take 5-10 working days to process. The service is primarily for academic and research purposes. Charges may apply depending on the lending institution."
+    "content": "Users can request books not available in CLR through inter-library loans. Processing takes 5–10 working days."
   },
   {
     "id": "kb020",
     "category": "Events",
     "title": "Library Orientation and Training",
-    "content": "The CLR organizes library orientation programs for freshmen at the beginning of each academic session to introduce students to library resources and services. Information literacy workshops are held monthly and cover topics such as effective database searching, citation management using Zotero or Mendeley, and avoiding plagiarism. Students can register for workshops through the CLR website or the information desk."
+    "content": "The CLR organizes orientation for new students and monthly workshops on research skills, databases, and citation management."
+  },
+
+  {
+    "id": "kb021",
+    "category": "General Information",
+    "title": "CLR Homepage Overview",
+    "content": "The CLR homepage provides access to search tools, collections, digital resources, and guides for students, alumni, and researchers."
+  },
+  {
+    "id": "kb022",
+    "category": "Special Collections",
+    "title": "Research Data and Historical Resources",
+    "content": "The CLR provides access to datasets and historical resources including Nigerian elections data, African civilizations, global terrorism data, and world population statistics."
+  },
+  {
+    "id": "kb023",
+    "category": "E-Resources",
+    "title": "Digital Mental Health Resources",
+    "content": "The CLR provides access to academic articles on teletherapy, telepsychiatry, digital mental health interventions, and AI in healthcare research."
+  },
+  {
+    "id": "kb024",
+    "category": "E-Resources",
+    "title": "Academic Database Directory",
+    "content": "The CLR provides access to major academic databases including Cambridge University Press, IEEE Xplore, Scopus, Web of Science, JSTOR, ProQuest, ScienceDirect, and DOAJ."
+  },
+  {
+    "id": "kb025",
+    "category": "Tools",
+    "title": "Digital Productivity Tools",
+    "content": "The CLR provides access to Google Workspace, Microsoft 365, Grammarly, Zoom, Turnitin, MATLAB, Moodle, and CSIS IT Support services."
+  },
+  {
+    "id": "kb026",
+    "category": "News",
+    "title": "Library News and Updates",
+    "content": "The CLR shares updates on research grants, training opportunities, and academic support programs including Web of Science workshops and ACU gender grants."
+  },
+  {
+    "id": "kb027",
+    "category": "Events",
+    "title": "Library Events and Workshops",
+    "content": "The CLR hosts events such as research training, InCites benchmarking sessions, and Web of Science workshops to improve academic research skills."
+  },
+  {
+    "id": "kb028",
+    "category": "Staff",
+    "title": "CLR Staff Directory",
+    "content": "The CLR staff includes directors, division heads, and librarians across acquisitions, digital systems, preservation, readers services, and technical services divisions."
+  },
+  {
+    "id": "kb029",
+    "category": "Services",
+    "title": "Library Services Overview",
+    "content": "The CLR offers services including lending, digital access, research support, learning spaces, ICT integration, and academic assistance."
+  },
+  {
+    "id": "kb030",
+    "category": "General Information",
+    "title": "Library Location and Access",
+    "content": "The CLR is located at Covenant University, Ota, Ogun State. It provides physical and digital access to resources for students, staff, and researchers."
   }
 ]
