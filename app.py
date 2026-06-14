@@ -191,6 +191,9 @@ def handle_reset():
         del conversation_sessions[session_id]
     return jsonify({"status": "ok", "message": f"Session '{session_id}' cleared."})
 
+@app.route("/health")
+def health():
+    return {"status": "ok"}
 
 if __name__ == "__main__":
     # Ensure port matches standard local deployments
